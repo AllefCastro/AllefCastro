@@ -4,7 +4,7 @@
  
 ___
 
-## <img src="assets/svg/user-solid.svg" width="16"> Sobre mim
+## Sobre mim
 
 
  - Desenvolvedor Back-end
