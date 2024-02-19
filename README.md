@@ -13,7 +13,7 @@ ___
   
 ___
 
-> ![Seguidores](https://img.shields.io/github/followers/DevPedroAugusto.svg?style=social&label=Follow&maxAge=2592000)
+> ![Seguidores](https://img.shields.io/github/followers/AllefCastro.svg?style=social&label=Follow&maxAge=2592000)
  
 ___
 
@@ -34,11 +34,6 @@ ___
  ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
  
-
-
- **Frameworks**
-  
- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
  
 
