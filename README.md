@@ -42,7 +42,7 @@ ___
  <summary><b>IDE</b></summary>
 
  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
- ![PhpStorm]
+ ![PhpStorm](https://shields.io/badge/Phpstorm-993399?style=for-the-badge&logo=phpstorm&logoColor=black)
  ![Notepad ++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 
 
