@@ -65,9 +65,9 @@ ___
 
 > _Obs: Caso não esteja carrgando tente aumentar e diminuir o zoom_
 
-![Top Langs](https://streak-stats.demolab.com?user=DevSerPedro&locale=pt-br&mode=daily&theme=react&hide_border=false&border_radius=5&hide_border=true)
-![Statics](https://github-readme-stats.vercel.app/api/top-langs?username=DevSerPedro&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true)
-![Timeline](https://github-readme-activity-graph.vercel.app/graph?username=DevSerPedro&theme=react&bg_color=20232a&hide_border=true)
+![Top Langs](https://streak-stats.demolab.com?user=AllefCastro&locale=pt-br&mode=daily&theme=react&hide_border=false&border_radius=5&hide_border=true)
+![Statics](https://github-readme-stats.vercel.app/api/top-langs?username=AllefCastro&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true)
+![Timeline](https://github-readme-activity-graph.vercel.app/graph?username=AllefCastro&theme=react&bg_color=20232a&hide_border=true)
 
 ___
 
