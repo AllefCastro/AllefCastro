@@ -11,10 +11,7 @@ ___
  - Foco em desenvolvimento WEB
  - Cursando Sistema da informação (5° semestre)
   
-___
 
-> ![Seguidores](https://img.shields.io/github/followers/AllefCastro.svg?style=social&label=Follow&maxAge=2592000)
- 
 ___
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Linguagens de programação
