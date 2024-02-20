@@ -14,7 +14,7 @@ ___
 
 ___
 
-## ![Certificados](https://cursos.alura.com.br/user/allefcastro/fullCertificate/4b902141b0b95c82b2db79fc8cb04e52)
+## [![LinkedIn](assets/svg/card-linkedin.svg)](https://cursos.alura.com.br/user/allefcastro/fullCertificate/4b902141b0b95c82b2db79fc8cb04e52)
 ___
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Linguagens de programação
